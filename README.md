@@ -1,3 +1,4 @@
+# 用于制作VOC格式数据集的框图工具 2016.11.7
 # LabelImg
 
 [![Build Status](https://travis-ci.org/tzutalin/labelImg.png)](https://travis-ci.org/tzutalin/labelImg)
